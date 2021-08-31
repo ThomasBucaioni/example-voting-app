@@ -1,3 +1,8 @@
 ## Worker Java App
-Test webhook #1
-Test webhook #2
+
+Test webhook #1 (Github webhook)
+
+Test webhook #2 (smee.io)
+
+Test embedded build
+ - [![Build Status](http://134.59.230.141:8080/buildStatus/icon?job=instavote%2Fworker-build)](http://134.59.230.141:8080/job/instavote/job/worker-build/)
